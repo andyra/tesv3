@@ -3263,16 +3263,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v3.0.34",
+            "version": "v3.0.43",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "100ae64ee18c6cdb3ac54fa3fd64bd744e6e6931"
+                "reference": "86c2b96bd1d0b135717c17944cf120b0051bf433"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/100ae64ee18c6cdb3ac54fa3fd64bd744e6e6931",
-                "reference": "100ae64ee18c6cdb3ac54fa3fd64bd744e6e6931",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/86c2b96bd1d0b135717c17944cf120b0051bf433",
+                "reference": "86c2b96bd1d0b135717c17944cf120b0051bf433",
                 "shasum": ""
             },
             "require": {
@@ -3337,13 +3337,17 @@
                 "laravel",
                 "statamic"
             ],
+            "support": {
+                "issues": "https://github.com/statamic/cms/issues",
+                "source": "https://github.com/statamic/cms/tree/v3.0.43"
+            },
             "funding": [
                 {
                     "url": "https://github.com/statamic",
                     "type": "github"
                 }
             ],
-            "time": "2020-12-09T20:23:32+00:00"
+            "time": "2021-02-11T16:12:05+00:00"
         },
         {
             "name": "statamic/stringy",
@@ -8661,5 +8665,5 @@
         "php": "^7.3"
     },
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
